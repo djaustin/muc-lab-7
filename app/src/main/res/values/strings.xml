@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BritishLibrary</string>
+    <string name="borrower_id">Borrower ID:</string>
+    <string name="set">Set</string>
+    <string name="add_book">Add Book</string>
+    <string name="add_a_book">Add a Book:</string>
+    <string name="check_title">Check title:</string>
+    <string name="get">Get</string>
+</resources>
